@@ -14,4 +14,5 @@ https://www.youtube.com/watch?v=vxggZffOqek&t=27
 3. Task queue & Microtask queue
 4. Infinite Currying: add(1)(2)(3)(4)()
 5. Implement: const result = calc.add(10).multiply(5).subtract(30).add(10); result.total
+6. React: Implement left side folder structure
 ```
