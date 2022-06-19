@@ -7,6 +7,8 @@ https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questio
 
 https://www.youtube.com/watch?v=vxggZffOqek&t=27
 
+https://www.youtube.com/watch?v=abbdJ4Yfm54&t=6
+
 
 ```
 1. Hoisting
