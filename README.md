@@ -19,5 +19,6 @@ https://www.youtube.com/watch?v=abbdJ4Yfm54&t=6
 6. Difference between map and foreach
 7. Event Delegation
 8. Flatten the array: let arr = [[1,2],[3,4],[5,6,7,8,9],[10,11,12]]; => [1,2,3,4,5,6,7,8,9,10,11,12]
-8. React: Implement left side folder structure
+9. React: Implement left side folder structure
+10. React: Explain Lifecycle. Both by using class components & functional components
 ```
