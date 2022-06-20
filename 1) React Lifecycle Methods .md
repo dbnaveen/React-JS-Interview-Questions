@@ -15,3 +15,14 @@
 - When component renders first
 - It is used to call any API's and get the data
 ```
+**2. ComponentDidUpdate()**
+```
+- When the value of any variables get updated. Mainly in the child component.
+```
+
+
+#### FUNCTIONAL COMPONENTS
+```
+useEffect(() => {
+}, []);
+```
