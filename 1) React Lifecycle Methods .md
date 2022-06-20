@@ -24,5 +24,9 @@
 #### FUNCTIONAL COMPONENTS
 ```
 useEffect(() => {
+  console.log();
+  return () => {
+    console.log("Component removed");
+  }
 }, []);
 ```
