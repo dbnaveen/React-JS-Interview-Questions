@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=vxggZffOqek&t=27
 
 https://www.youtube.com/watch?v=abbdJ4Yfm54&t=6
 
+https://www.youtube.com/watch?v=9cQsv91zBsc
+
+
 
 ```
 01. Hoisting
@@ -22,4 +25,5 @@ https://www.youtube.com/watch?v=abbdJ4Yfm54&t=6
 09. React: Implement left side folder structure
 10. React: Explain Lifecycle. Both by using class components & functional components
 11. React: Implement debounce function [https://codesandbox.io/s/lucid-lamport-v6jnrq?file=/src/App.js]
+12. React: useCallback vs useMemo
 ```
