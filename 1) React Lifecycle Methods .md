@@ -12,7 +12,7 @@
 
 **1. ComponentDidMount()**
 ```
-- When component renders first
+- When component renders first time
 - It is used to call any API's and get the data
 ```
 **2. ComponentDidUpdate()**
