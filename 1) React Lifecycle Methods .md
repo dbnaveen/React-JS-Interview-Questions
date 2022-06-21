@@ -10,35 +10,35 @@
 3. Unmounting
 ```
 
-**1. ComponentDidMount()**
+**1. componentDidMount()**
 ```
 - When component renders first time
 - It is used to call any API's and get the data
 ```
-**2. ComponentDidUpdate()**
+**2. componentDidUpdate()**
 ```
 - When the value of any variables get updated. Mainly in the child component.
 ```
-**3. ComponentWillUnmount()**
+**3. componentWillUnmount()**
 ```
 - When the component is removed.
 ```
 
 
 #### FUNCTIONAL COMPONENTS (uses Hooks)
-**(ComponentDidMount)**
+**(componentDidMount)**
 ```
 useEffect(() => {
 
 }, []);
 ```
-**(ComponentDidUpdate)**
+**(componentDidUpdate)**
 ```
 useEffect(() => {
 
 }, [count]);
 ```
-**(ComponentWillUnmount)**
+**(componentWillUnmount)**
 ```
 useEffect(() => {
   return()=> {
