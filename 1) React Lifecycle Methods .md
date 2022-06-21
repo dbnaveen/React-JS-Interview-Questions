@@ -19,14 +19,29 @@
 ```
 - When the value of any variables get updated. Mainly in the child component.
 ```
+**3. ComponentWillUnmount()**
+```
+- When the component is removed.
+```
 
 
-#### FUNCTIONAL COMPONENTS
+#### FUNCTIONAL COMPONENTS (uses Hooks)
+**(ComponentDidMount)**
 ```
 useEffect(() => {
-  console.log();
-  return () => {
-    console.log("Component removed");
-  }
+
 }, []);
+```
+**(ComponentDidUpdate)**
+```
+useEffect(() => {
+
+}, [count]);
+```
+**(ComponentWillUnmount)**
+```
+useEffect(() => {
+  return()=> {
+  }
+}, [count]);
 ```
