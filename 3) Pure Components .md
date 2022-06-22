@@ -15,3 +15,5 @@
 ```
 Pure component is used to prevent un-necessary renders of the component.
 ```
+
+https://codesandbox.io/s/pure-component-rkhcn9?file=/src/components/ParentComp.js
