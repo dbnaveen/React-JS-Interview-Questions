@@ -33,4 +33,5 @@ https://www.youtube.com/watch?v=9cQsv91zBsc
 04. React: useCallback vs useMemo
 05. React: Pure components
 06. React: Higher Order Components
+07. React: Why Redux when there is state in React
 ```
