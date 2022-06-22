@@ -32,4 +32,5 @@ https://www.youtube.com/watch?v=9cQsv91zBsc
 03. React: Implement debounce function [https://codesandbox.io/s/lucid-lamport-v6jnrq?file=/src/App.js]
 04. React: useCallback vs useMemo
 05. React: Pure components
+06. React: Higher Order Components
 ```
