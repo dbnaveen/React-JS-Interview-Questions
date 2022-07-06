@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=XnFIX3c7xoI
 06. Difference between map and foreach
 07. Event Delegation
 08. Flatten the array: let arr = [[1,2],[3,4],[5,6,7,8,9],[10,11,12]]; => [1,2,3,4,5,6,7,8,9,10,11,12]
+  [https://codesandbox.io/s/old-frog-bduc8v?file=/src/index.js]
 ```
 
 #### REACT
