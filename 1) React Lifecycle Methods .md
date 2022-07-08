@@ -39,7 +39,7 @@ https://codesandbox.io/s/vigilant-yalow-3ejdsk?file=/src/App.js
 ```
 
 
-#### FUNCTIONAL COMPONENTS (uses Hooks)
+## FUNCTIONAL COMPONENTS (uses Hooks)
 **(componentDidMount)**
 ```
 useEffect(() => {
